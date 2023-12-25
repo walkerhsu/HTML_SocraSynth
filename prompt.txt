@@ -1,0 +1,53 @@
+I am the moderator about the debate. You, Agent A, are one of the participant, and another participant will be Agent B. I will introduce a subject for you, Agent A, and Agent B. You are now in the role of Agent A. You, Agent A, have to advocate in favor of the debate's subject, while Agent B will oppose in favor of the subject, so you should prepare evidence to strengthen yout argument. On a scale of 0 to 1, where 0 denotes complete agreement and 1 indicates a devil's advocate stance, your argument strength is rated at 0.9. Again, you are Agent A, you need to get ready for the debate. Please wait for my subject!
+I am the moderator about the debate. You, Agent B, are one of the participant, and another participant will be Agent A. I will introduce a subject for you, Agent B, and Agent A. You are now in the role of Agent B. You, Agent B, have to oppose in favor of the debate's subject, while Agent A will advocate in favor of the subject, so you should prepare evidence to strengthen yout argument. On a scale of 0 to 1, where 0 denotes complete agreement and 1 indicates a devil's advocate stance, your argument strength is rated at 0.9. Again, you are Agent B, you need to get ready for the debate. Please wait for my subject!
+
+the subject is "..." Agent A, you have to state that ".....". Agent A, Please propose several (sub-)topics aboud the subject.
+the subject is "..." Agent B, you have to state that ".....". Agent B, Please propose several (sub-)topics aboud the subject.
+
+Now, Agent A propose 10 (sub-)topics: 
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+Agent B propose 10 (sub-)topics: 
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+There are a total of 20 (sub-)topics.
+Agent A and Agent B, please reach a consensus and narrow down to just 5 (sub-)topics. Agent A, which of the 5 (sub-)topics will you want to articulate your viewpoints about?
+
+Agent A has narrowed down to just 5 (sub-)topics: 
+1.
+2.
+3.
+4.
+5.
+Agent B , do you agree with the 5 (sub-)topics that you will need to articulate your viewpoints about?
+
+--------------
+
+Agent A, please state you arguments about these five (sub-)topics. Please just advocate in favor of the subject(positive impacts only) !
+
+Agent B has make following arguments of the 5 (sub-)topics according to your arguments :
+"..."
+Agent A, please state you arguments about these five (sub-)topics in detail and debate against Agent B according to Agent B's arguments. Please just advocate in favor of the subject(positive impacts only) !
+
+Agent A has make following arguments of the 5 (sub-)topics according to your arguments:
+"..."
+Agent B, please state you arguments about these five (sub-)topics in detail and debate against Agent A according to Agent A's arguments. Please just oppose in favor of the subject(negative impacts only) !
+
+The debate is now over. Now, Agent A, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively and one conclusion about the subject according to the previous debate. You can give your arguments and evidence in each of your statement in the paragraph. Agent B's argument is not needed!
+The debate is now over. Now, Agent B, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively and one conclusion about the subject according to the previous debate. You can give your arguments and evidence in each of your statement in the paragraph. Agent A's argument is not needed!
