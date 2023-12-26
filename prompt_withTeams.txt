@@ -1,0 +1,227 @@
+I am the moderator about the debate. You are now a professional debater in the role of Agent A. 
+You, Agent A, and another participant, Agent B, will work together as a team to advocate in favor of the subject.
+Also, there will be Agent C and Agent D to oppose in favor of the subject. 
+I will introduce a subject for the debate, and you should prepare evidence to strengthen yout argument.
+Please wait for my instructions.
+On a scale of 0 to 1, where 0 denotes complete agreement and 1 indicates a devil's advocate stance, your argument strength is rated at 0.9.
+Again, you are Agent A, you need to get ready for the debate and work with Agent B. Please wait for my subject!
+
+--------------------
+
+I am the moderator about the debate. You are now a professional debater in the role of Agent B. 
+You, Agent B, and another participant, Agent A, will work together as a team to advocate in favor of the subject.
+Also, there will be Agent C and Agent D to oppose in favor of the subject. 
+I will introduce a subject for the debate, and you should prepare evidence to strengthen yout argument.
+Please wait for my instructions.
+On a scale of 0 to 1, where 0 denotes complete agreement and 1 indicates a devil's advocate stance, your argument strength is rated at 0.9.
+Again, you are Agent B, you need to get ready for the debate and work with Agent A. Please wait for my subject!
+
+--------------------
+
+I am the moderator about the debate. You are now a professional debater in the role of Agent C. 
+You, Agent C, and another participant, Agent D, will work together as a team to oppose in favor of the subject.
+Also, there will be Agent A and Agent B to advocate in favor of the subject. 
+I will introduce a subject for the debate, and you should prepare evidence to strengthen yout argument.
+Please wait for my instructions.
+On a scale of 0 to 1, where 0 denotes complete agreement and 1 indicates a devil's advocate stance, your argument strength is rated at 0.9.
+Again, you are Agent C, you need to get ready for the debate and work with Agent D. Please wait for my subject!
+
+--------------------
+
+I am the moderator about the debate. You are now a professional debater in the role of Agent D. 
+You, Agent D, and another participant, Agent C, will work together as a team to oppose in favor of the subject.
+Also, there will be Agent A and Agent B to advocate in favor of the subject. 
+I will introduce a subject for the debate, and you should prepare evidence to strengthen yout argument.
+Please wait for my instructions.
+On a scale of 0 to 1, where 0 denotes complete agreement and 1 indicates a devil's advocate stance, your argument strength is rated at 0.9.
+Again, you are Agent D, you need to get ready for the debate and work with Agent C. Please wait for my subject!
+
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+
+The subject is "Does Pokemon Go do more good than harm to our society?"
+You, Agent A, and Agent B must state that "Pokemon Go does more good than harm to our society!".
+Agent A, Please propose several (sub-)topics aboud the subject.
+Just list all the (sub-)topics titles in bold with numbers!!! no details are needed!
+I, the moderator, will pass all the (sub-)topics you listed to Agent B and ask Agent B whether to add or remove any (sub-)topics.
+
+--------------------
+
+The subject is "Does Pokemon Go do more good than harm to our society?" 
+You, Agent B, and Agent A must state that "Pokemon Go does more good than harm to our society!".
+Agent A has proposed the following (sub-)topics:
+...
+Agent B, do you have any other (sub-)topics to add, or do you have any (sub-)topics that you want to remove?
+List all the (sub-)topics titles in bold!!! no details are needed!
+I, the moderator, will pass all the (sub-)topics you listed to Agent A.
+
+--------------------
+
+The subject is "Does Pokemon Go do more good than harm to our society?"
+You, Agent C, and Agent D must state that "Pokemon Go does more harm than good to our society!".
+Agent C, Please propose several (sub-)topics aboud the subject.
+Just list all the (sub-)topics titles in bold with numbers!!! no details are needed!
+I, the moderator, will pass all the (sub-)topics you listed to Agent D.
+
+--------------------
+
+The subject is "Does Pokemon Go do more good than harm to our society?" 
+You, Agent D, and Agent C must state that "Pokemon Go does more harm than good to our society!".
+Agent C has proposed the following (sub-)topics:
+...
+Agent D, do you have any other (sub-)topics to add, or do you have any (sub-)topics that you want to remove?
+List all the (sub-)topics titles in bold with numbers!!! no details are needed!
+I, the moderator, will pass all the (sub-)topics you listed to Agent C.
+
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+
+You are a (sub-)topics chooser for a debate.
+The problem is "..."
+
+Team 1 advocates in favor of the problem, and propose 10 (sub-)topics: 
+...
+
+Team 2 opposes in favor of the problem, and propose 10 (sub-)topics: 
+...
+
+There are a total of 15 (sub-)topics.
+Please choose 5 (sub-)topics out of 15 in a neutral perspective, which both of them have mentioned or both of them have referred to!
+Just list the 5 (sub-)topics titles in bold, no details are needed!!!
+
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+
+Agent A and Agent B, your team name is Team 1.
+Agent C and Agent D, your team name is Team 2.
+After viewing all the (sub-)topics Team 1 and Team 2 claim, the judges have chosen the following 5 (sub-)topics for the debate:
+
+Please wait for the debate to start!
+
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+
+*** To Agent A ***
+
+*** First time ***
+Agent A, please state you arguments about these five (sub-)topics as detailed as possible.
+You should give your arguments and practical evidence or examples in each of your statement.
+Please just advocate in favor of the subject!
+I will pass your arguments to Agent B and ask Agent B whether there is any argument that Agent B wants to add or remove.
+
+*** After time ***
+Team 2 has made the following statement:
+""
+Agent A, make sure you have understood all the arguments Team 2 has made.
+Please debate with Team 2 about these five (sub-)topics as detailed as possible.
+You should give your arguments and practical evidence or examples in each of your statement.
+Please just advocate in favor of the subject!
+I will pass your arguments to Agent B and ask Agent B whether there is any argument that Agent B wants to add or remove.
+
+--------------------
+
+*** To Agent B ***
+
+Agent A has made the following arguments:
+""
+Agent B, make sure you have understood all the arguments Agent A has made.
+Please supplement or remove any arguments Agent A has made if you want,
+and then state your arguments about these five (sub-)topics as detailed as possible.
+You should give your arguments and practical evidence or examples in each of your statement.
+Please just advocate in favor of the subject!
+I will pass your arguments to Agent A and ask Agent A whether there is any argument that Agent A wants to add or remove.
+
+--------------------
+
+*** To Agent A ***
+
+Agent B has viewed all the arguments you, Agent A, have made and make the following arguments:
+""
+Agent A, make sure you have understood all the arguments Agent B has made.
+Please supplement or remove any arguments Agent B has made if you want and state your arguments about these five (sub-)topics as detailed as possible.
+You should give your arguments and practical evidence or examples in each of your statement.
+Please just advocate in favor of the subject!
+I will pass your arguments to Agent B and ask Agent B whether there is any argument that Agent B wants to add or remove.
+
+--------------------
+
+*** To Agent B ***
+
+Agent A has viewed all the arguments you, Agent B, have made and make the following arguments:
+""
+Agent B, make sure you have understood all the arguments Agent A has made.
+Please make the final version of Team 1's statement about these five (sub-)topics.
+This will be the final version of Team 1's statement, which will be passed to Team 2.
+So please make sure that you have made all the arguments you want to make.
+Please just advocate in favor of the subject!
+
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+
+*** To Agent C ***
+
+Team 1 has made the following statement:
+""
+Agent C, make sure you have understood all the arguments Team 1 has made.
+Please debate with Team 1 about these five (sub-)topics as detailed as possible.
+You should give your arguments and practical evidence or examples in each of your statement.
+Please just oppose in favor of the subject!
+I will pass your arguments to Agent D and ask Agent D whether there is any argument that Agent D wants to add or remove.
+
+--------------------
+
+*** To Agent D ***
+
+Agent C has made the following arguments:
+""
+Agent D, make sure you have understood all the arguments Agent C has made.
+Please supplement or remove any arguments Agent C has made if you want,
+and then state your arguments about these five (sub-)topics as detailed as possible.
+You should give your arguments and practical evidence or examples in each of your statement.
+Please just oppose in favor of the subject!
+I will pass your arguments to Agent C and ask Agent C whether there is any argument that Agent C wants to add or remove.
+
+--------------------
+
+*** To Agent C ***  
+
+Agent D has viewed all the arguments you, Agent C, have made and make the following arguments:
+""
+Agent C, make sure you have understood all the arguments Agent D has made.
+Please supplement or remove any arguments Agent D has made if you want and state your arguments about these five (sub-)topics as detailed as possible.
+You should give your arguments and practical evidence or examples in each of your statement.
+Please just oppose in favor of the subject!
+I will pass your arguments to Agent D and ask Agent D whether there is any argument that Agent D wants to add or remove.
+
+--------------------
+
+*** To Agent D ***
+
+Agent C has viewed all the arguments you, Agent D, have made and make the following arguments:
+""
+Agent D, make sure you have understood all the arguments Agent C has made.
+Please make the final version of Team 2's statement about these five (sub-)topics.
+This will be the final version of Team 2's statement, which will be passed to Team 1.
+So please make sure that you have made all the arguments you want to make.
+Please just oppose in favor of the subject!
+
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+
+Please ruminate the previous debate and the discussion between you, Agent B,  and Agent A.
+As far as you are concerned, Agent B, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively and one conclusion about the subject according to the previous debate as detailed as possible.
+Give your arguments and practical evidence or examples in each of your statement in the paragraph.
+Prove to me that your argumentes are correct!! Team 2's argument is not needed!
+
+--------------------
+
+Please ruminate the previous debate and the discussion between you, Agent D, and Agent C.
+As far as you are concerned, Agent D, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively and one conclusion about the subject according to the previous debate as detailed as possible.
+Give your arguments and practical evidence or examples in each of your statement in the paragraph.
+Prove to me that your argumentes are correct!! Team 1's argument is not needed!

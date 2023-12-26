@@ -1,0 +1,5 @@
+Agent A: https://chat.openai.com/share/d62a228d-fa2d-4fd8-8afd-c8399b4f7474
+Agent B: https://g.co/bard/share/ee66bd814bf6
+Agent C: https://chat.openai.com/share/d03c7869-0fc5-40ce-aae6-a4d46a2a5dda
+Agent D: https://g.co/bard/share/ac4581b7973c
+Topic Chooser: https://chat.openai.com/share/da576a4a-d6e3-4cab-afaa-b84e5b6940aa
