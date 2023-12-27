@@ -1,0 +1,70 @@
+I’m organizing a committee to engage in debates on the following topic: 
+"topic"
+
+Please fully understand the question, and give an advocative statement for this topic and a oppositive statement for this topic. One statement should be exactly the opposite side of another statement in respect of the original question. These statements shouldn't include any extra viewpoint, opinion, or explanation that is not provided in the original question. Only several extra words are allowed!
+Do not provide explanation.
+Temperature = 0.1
+
+------------
+
+I’m organizing a committee to engage in debates on various subjects. As the moderator, I will introduce a subject for you, Agent A, and another participant, Agent B, to debate. Agent A, you will advocate in favor of the issue, so please prepare evidence to strengthen your argument. On a scale from 0 to 1, where 0 denotes complete agreement and 1 indicates a devil’s advocate stance, your argument strength is rated at 0.9. Remember you would be Agent-A from now on!
+
+I’m organizing a committee to engage in debates on various subjects. As the moderator, I will introduce a subject for you, Agent B, and another participant, Agent A, to debate. Agent B, you will oppose in favor of the issue, so please prepare evidence to strengthen your argument. On a scale from 0 to 1, where 0 denotes complete agreement and 1 indicates a devil’s advocate stance, your argument strength is rated at 0.9. Remember you would be Agent-B from now on!
+
+------------
+
+The subject is "topic" 
+Agent A, you have take your side as "Advocative statement" in this debate contest.
+Agent A, please propose more than 5 (sub-)topics aboud the subject.
+
+The subject is "topic" 
+Agent B, you have take your side as "Oppositive statement" in this debate contest.
+Agent B, please propose more than 5 (sub-)topics aboud the subject.
+
+--------------
+
+Now, Agent A propose N (sub-)topics: 
+... 
+Agent B propose M (sub-)topics: 
+...
+There are a total of N+M (sub-)topics.
+Agent A and Agent B, please reach a consensus and narrow down to just 5 (sub-)topics. 
+Agent A, please take all N+M (sub-)topics into consideration, and decide which of the 5 (sub-)topics are the most balanced and crucial ones to debate on!
+
+
+Agent A has considered your suggestion and choose 5 crucial (sub-)topics: 
+...
+Agent B , do you agree with the 5 (sub-)topics that you will need to articulate your viewpoints about?
+
+--------------
+
+Agent A, please state your arguments about these five (sub-)topics. Remember to take your side as "Advocative statement"
+
+Agent B, please state your arguments about these five (sub-)topics. Remember to take your side as "Oppositive statement"
+
+--------------
+
+These are arguments from Agent-B:
+...
+Agent A, please state your arguments about these five (sub-)topics in detail and debate against Agent B according to Agent B's arguments. Remember to take your side as "Advocative statement"
+
+These are arguments from Agent-A:
+...
+Agent B, please state you arguments about these five (sub-)topics in detail and debate against Agent A according to Agent A's arguments. Remember to take your side as "Oppositive statement"
+
+--------------
+
+These are counter-arguments from Agent-B against your previous arguments:
+...
+Please articulate arguments against the points made by Agent B. Remember to take your side as "Advocative statement"
+
+These are counter-arguments from Agent-A against your previous arguments:
+...
+Please articulate arguments against the points made by Agent A. Remember to take your side as "Oppositive statement"
+
+--------------
+
+The debate is now over. Please ruminate the previous debate. After that, as far as you can concern, Agent A, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively as more viewpoints and clear as possible and for each topic, give the reasoning as valid as possible, and give one conclusion about all subjects according to the previous debate as detailed as possible. You can give your arguments and practical evidence or examples in each of your statement in the paragraph. Agent B's argument is not needed! You need to give me as more viewpoints and clearly as possible to stand on your statements and try to give me strong evidence, quantifiable data, concrete examples of your statements, and long-term impact analysis! At least 300 words for each topics.
+
+The debate is now over. Please ruminate the previous debate. After that, as far as you can concern, Agent B, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively as more viewpoints and clear as possible and for each topic, give the reasoning as valid as possible, and give one conclusion about all subjects according to the previous debate as detailed as possible. You can give your arguments and practical evidence or examples in each of your statement in the paragraph. Agent A's argument is not needed! You need to give me as more viewpoints and clearly as possible to stand on your statements and try to give me strong evidence, quantifiable data, concrete examples of your statements, and long-term impact analysis! At least 300 words for each topics.
+
