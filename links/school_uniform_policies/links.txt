@@ -1,2 +1,3 @@
-Agent A: 
-Agent B: 
+Agent A: https://g.co/bard/share/e94693379ffb
+Agent B: https://g.co/bard/share/f3bb477cd25f
+Topic Chooser: https://g.co/bard/share/ead594436a9d

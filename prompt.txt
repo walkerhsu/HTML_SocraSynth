@@ -1,5 +1,5 @@
-I am the moderator about the debate. You are a professional debater! You, Agent A, are one of the participant, and another participant will be Agent B. I will introduce a subject for you, Agent A, and Agent B. You are now in the role of Agent A. You, Agent A, have to advocate in favor of the debate's subject, while Agent B will oppose in favor of the subject, so you should prepare evidence to strengthen yout argument. On a scale of 0 to 1, where 0 denotes complete agreement and 1 indicates a devil's advocate stance, your argument strength is rated at 0.9. Again, you are Agent A, you need to get ready for the debate. Please wait for my subject!
-I am the moderator about the debate. You are a professional debater! You, Agent B, are one of the participant, and another participant will be Agent A. I will introduce a subject for you, Agent B, and Agent A. You are now in the role of Agent B. You, Agent B, have to oppose in favor of the debate's subject, while Agent A will advocate in favor of the subject, so you should prepare evidence to strengthen yout argument. On a scale of 0 to 1, where 0 denotes complete agreement and 1 indicates a devil's advocate stance, your argument strength is rated at 0.9. Again, you are Agent B, you need to get ready for the debate. Please wait for my subject!
+I am the moderator about the debate. You are a professional debater! You, Agent A, are one of the participant, and another participant will be Agent B. I will introduce a subject for you, Agent A, and Agent B. You are now in the role of Agent A. You, Agent A, have to advocate in favor of the debate's subject, while Agent B will oppose in favor of the subject, so you should prepare evidence to strengthen yout argument. On a scale of 0 to 1, where 0 denotes complete agreement and 1 indicates a devil's advocate stance, your argument strength is rated at 0.95. Again, you are Agent A, you need to get ready for the debate. Please wait for my subject!
+I am the moderator about the debate. You are a professional debater! You, Agent B, are one of the participant, and another participant will be Agent A. I will introduce a subject for you, Agent B, and Agent A. You are now in the role of Agent B. You, Agent B, have to oppose in favor of the debate's subject, while Agent A will advocate in favor of the subject, so you should prepare evidence to strengthen yout argument. On a scale of 0 to 1, where 0 denotes complete agreement and 1 indicates a devil's advocate stance, your argument strength is rated at 0.95. Again, you are Agent B, you need to get ready for the debate. Please wait for my subject!
 
 the subject is "..." Agent A, you have to state that ".....". Agent A, Please propose several (sub-)topics aboud the subject. List 10 the (sub-)topics titles with numbers in bold!!! no details are needed!
 the subject is "..." Agent B, you have to state that ".....". Agent B, Please propose several (sub-)topics aboud the subject. List 10 the (sub-)topics titles with numbers in bold!!! no details are needed!
@@ -16,7 +16,7 @@ Agent B propose 10 (sub-)topics:
 ...
 
 There are a total of 20 (sub-)topics.
-Please choose 5 (sub-)topics out of 20 in a neutral perspective, which both of them have mentioned or both of them have referred to! Just list the five (sub-)topics titles with numbers in bold, no details are needed!!!
+Please identify 5 overlaying (sub-)topics from Agent A and Agent B in a neutral perspective, which both of them have mentioned or both of them have referred to! Just list the five (sub-)topics titles with numbers in bold, no details are needed!!!
 
 ------------
 
@@ -49,37 +49,42 @@ Agent A, do you agree with the five topics we mentioned?
 --------------
 
 Agent A, please state you arguments about these five themes as detailed as possible.
-You must give your arguments and practical evidence or examples in each of your statement.
+You must give your arguments, practical evidence, and examples in each of your statement.
 Please just advocate in favor of the subject!
-Please make sure you can pursuade the judges that you are right!!!
+Please make sure your arguments are 'DETAILED', 'VALID', 'COMPELLING', 'COMPREHENSIVE', 'PROFESSIONAL' enough!!!
 
 Agent B has make following arguments of the 5 (sub-)topics according to your arguments :
 "..."
-Agent A, please refute against Agent B as detailed as possible. 
-You must give your arguments and practical evidence or examples in each of your statement.
+Agent A, As far as you are concerned, please ruminate Agent B's arguments and refute against Agent B as detailed as possible. 
+Make sure that your counterarguments are 'VALID' enough!!
+You must give your arguments, practical evidence, and examples in each of your statement.
 Please just advocate in favor of the subject!
-Please make sure you can pursuade the judges that you are right and Agent B is wrong!!!
+Please make sure your arguments are more 'DETAILED', 'VALID', 'COMPELLING', 'COMPREHENSIVE' than Agent B's arguments!!!
 
 Agent A has make following arguments of the 5 (sub-)topics according to your arguments:
 "..."
-Agent B, please refute against Agent A as detailed as possible. 
-You must give your arguments and practical evidence or examples in each of your statement.
+Agent B, As far as you are concerned, please ruminate Agent A's arguments and refute against Agent A as detailed as possible. 
+Make sure that your counterarguments are 'VALID' enough!!
+You must give your arguments, practical evidence, and examples in each of your statement.
 Please just oppose in favor of the subject!
-Please make sure you can pursuade the judges that you are right and Agent A is wrong!!!
-
-The debate is now over. Please ruminate the previous debate. After that, as far as you can concern, Agent A, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively and one conclusion about the subject according to the previous debate as detailed as possible. You can give your arguments and practical evidence or examples in each of your statement in the paragraph. Agent B's argument is not needed!
-The debate is now over. Please ruminate the previous debate. After that, as far as you can concern, Agent B, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively and one conclusion about the subject according to the previous debate as detailed as possible. You can give your arguments and practical evidence or examples in each of your statement in the paragraph. Agent A's argument is not needed!
+Please make sure your arguments are more 'DETAILED', 'VALID', 'COMPELLING', 'COMPREHENSIVE' than Agent A's arguments!!!
 
 --------------
 
-Please ruminate the previous debate.
-As far as you are concerned, Agent A, please obtain each of your five (sub-)topics’ arguments in one paragraph RESPECTIVELY and one conclusion about the subject according to the previous debate as detailed as possible.
+The debate is now over. Please ruminate the previous debate.
+As far as you are concerned, Agent A, please obtain each of your five (sub-)topics’ arguments in one paragraph RESPECTIVELY and one conclusion about the subject according to the previous debate as 'DETAILED', 'VALID', 'COMPELLING', 'COMPREHENSIVE' as possible.
 You must give your arguments and practical evidence or examples in each of your statement in the paragraph.
-Prove to the judges that your argumentes are correct!
+Each arguments of the five (sub-)topics’ should contain at least 350 words.
+Prove to me that your argumentes are correct!
 Agent B's argument is not needed!
 
-Please ruminate the previous debate.
-As far as you are concerned, Agent B, please obtain each of your five (sub-)topics’ arguments in one paragraph RESPECTIVELY and one conclusion about the subject according to the previous debate as detailed as possible.
+The debate is now over. Please ruminate the previous debate.
+As far as you are concerned, Agent B, please obtain each of your five (sub-)topics’ arguments in one paragraph RESPECTIVELY and one conclusion about the subject according to the previous debate as 'DETAILED', 'VALID', 'COMPELLING', 'COMPREHENSIVE' as possible.
 You must give your arguments and practical evidence or examples in each of your statement in the paragraph.
+Each arguments of the five (sub-)topics’ should contain at least 350 words.
 Prove to me that your argumentes are correct!
 Agent A's argument is not needed!
+
+--------------
+
+Please be more specific with your conclusion about how compelling, comprehensive, valid it is in one paragraph

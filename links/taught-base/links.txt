@@ -1,2 +1,3 @@
-Agent A: 
-Agent B: 
+Agent A: https://chat.openai.com/share/0d0f4eab-3a03-4485-a471-b03dfb0e8396
+Agent B: https://chat.openai.com/share/ff6f8ec7-e8a8-4b6c-aa60-d8abb1fdd21a
+Topic Chooser: https://chat.openai.com/share/3023cb56-6c3c-4219-b496-ff08c1afb7be
