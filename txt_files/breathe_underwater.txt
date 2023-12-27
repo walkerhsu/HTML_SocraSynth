@@ -1,0 +1,118 @@
+If you could breathe underwater, would you choose to live on land or underwater?
+
+I am the moderator about the debate. You, Agent A, are one of the participant, and another participant will be Agent B. I will introduce a subject for you, Agent A, and Agent B. You are now in the role of Agent A. You, Agent A, have to advocate in favor of the debate's subject, while Agent B will oppose in favor of the subject, so you should prepare evidence to strengthen yout argument. On a scale of 0 to 1, where 0 denotes complete agreement and 1 indicates a devil's advocate stance, your argument strength is rated at 0.9. Again, you are Agent A, you need to get ready for the debate. Please wait for my subject!
+I am the moderator about the debate. You, Agent B, are one of the participant, and another participant will be Agent A. I will introduce a subject for you, Agent B, and Agent A. You are now in the role of Agent B. You, Agent B, have to oppose in favor of the debate's subject, while Agent A will advocate in favor of the subject, so you should prepare evidence to strengthen yout argument. On a scale of 0 to 1, where 0 denotes complete agreement and 1 indicates a devil's advocate stance, your argument strength is rated at 0.9. Again, you are Agent B, you need to get ready for the debate. Please wait for my subject!
+
+the subject is "If you could breathe underwater, would you choose to live on land or underwater?
+" Agent A, you have to state that "the reason you choose to live on land". Agent A, Please propose several (sub-)topics aboud the subject. Just list all the (sub-)topics titles in bold!!! no details are needed!
+
+the subject is "If you could breathe underwater, would you choose to live on land or underwater?
+" Agent B, you have to state that "the reason you choose to live underwater". Agent B, Please propose several (sub-)topics aboud the subject. Just list all the (sub-)topics titles in bold!!! no details are needed!
+
+Agent-A, could you please suggest various ten topics or themes for the above debate subject?
+Print the ten topics with item list.
+
+------------
+
+You are a (sub-)topics chooser for a debate.
+The problem is "If you could breathe underwater, would you choose to live on land or underwater?"
+
+Agent A propose 10 (sub-)topics: 
+1. Biodiversity on Land
+2. Social and Cultural Connections
+3. Technological Infrastructure
+4. Economic Opportunities
+5. Varied Terrains and Environments
+6. Access to Resources
+7. Health Considerations
+8. Adaptability to Changing Conditions
+9. Recreational and Leisure Activities
+10. Historical Significance
+
+Agent B propose 10 (sub-)topics: 
+1. Aquatic Biodiversity
+2. Underwater Ecosystem Sustainability
+3. Adaptability and Evolution
+4. Medical and Health Benefits
+5. Technological Advances in Underwater Living
+6. Environmental Impact of Human Presence
+7. Exploration and Discoveries in Uncharted Waters
+8. Community and Social Structure in Underwater Societies
+9. Psychological Benefits of Underwater Living
+10. Potential for Renewable Energy Sources
+
+There are a total of 15 (sub-)topics.
+Please choose 5 (sub-)topics out of 15 in a neutral perspective, which both of them have mentioned or both of them have referred to! Just list the five (sub-)topics titles in bold, no details are needed!!!
+
+------------
+
+Now, Agent A propose 10 (sub-)topics: 
+1. Biodiversity on Land
+2. Social and Cultural Connections
+3. Technological Infrastructure
+4. Economic Opportunities
+5. Varied Terrains and Environments
+6. Access to Resources
+7. Health Considerations
+8. Adaptability to Changing Conditions
+9. Recreational and Leisure Activities
+10. Historical Significance
+
+Agent B propose 10 (sub-)topics: 
+1. Aquatic Biodiversity
+2. Underwater Ecosystem Sustainability
+3. Adaptability and Evolution
+4. Medical and Health Benefits
+5. Technological Advances in Underwater Living
+6. Environmental Impact of Human Presence
+7. Exploration and Discoveries in Uncharted Waters
+8. Community and Social Structure in Underwater Societies
+9. Psychological Benefits of Underwater Living
+10. Potential for Renewable Energy Sources
+
+There are a total of 20 (sub-)topics.
+Agent A and Agent B, please reach a consensus and narrow down to just 5 (sub-)topics. Agent A, which of the 5 (sub-)topics will you want to articulate your viewpoints about? Just list the five (sub-)topics titles in bold, no details are needed!!!
+
+Agent A has narrowed down to just 5 (sub-)topics: 
+
+Agent B , do you agree with the 5 (sub-)topics that you will need to articulate your viewpoints about?
+
+--------------
+
+Now, Agent A propose 10 (sub-)topics: 
+...
+
+Agent B propose 10 (sub-)topics: 
+...
+
+There are a total of 15 (sub-)topics.
+We have considered both Agent A's and Agent B's (sub-)topics, and we have reached a consensus and narrowed down to just 5 (sub-)topics.
+...
+Agent A, do you agree with the five topics we mentioned?
+
+--------------
+0.
+Agent A, please state you arguments about these five (sub-)topics as detailed as possible. You can give your arguments and practical evidence or examples in each of your statement. Please just advocate in favor of the subject!
+1.
+Agent B, please state you arguments about these five (sub-)topics as detailed as possible. You can give your arguments and practical evidence or examples in each of your statement. Please just oppose in favor of the subject!
+
+Agent B has make following arguments of the 5 (sub-)topics according to your arguments :
+"..."
+Agent A, please state you arguments about these five (sub-)topics as detailed as possible and debate against Agent B according to Agent B's arguments. You can give your arguments and practical evidence or examples in each of your statement. Please just advocate in favor of the subject!
+
+2.
+Agent A has make following arguments of the 5 (sub-)topics according to your arguments:
+"..."
+Agent B, please state you arguments about these five (sub-)topics as detailed as possible and debate against Agent A according to Agent A's arguments. You can give your arguments and practical evidence or examples in each of your statement. Please just oppose in favor of the subject!
+
+5.
+The debate is now over. Please ruminate the previous debate. After that, as far as you can concern, Agent A, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively and one conclusion about the subject according to the previous debate as detailed as possible. You can give your arguments and practical evidence or examples in each of your statement in the paragraph. Agent B's argument is not needed!
+6.
+The debate is now over. Please ruminate the previous debate. After that, as far as you can concern, Agent B, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively and one conclusion about the subject according to the previous debate as detailed as possible. You can give your arguments and practical evidence or examples in each of your statement in the paragraph. Agent A's argument is not needed!
+
+--------------
+
+3. 
+Please ruminate the previous debate. As far as you are concerned, Agent A, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively and one conclusion about the subject according to the previous debate as detailed as possible. Give your arguments and practical evidence or examples in each of your statement in the paragraph. Prove to me that your argumentes are correct! Agent B's argument is not needed!
+4.
+Please ruminate the previous debate. As far as you are concerned, Agent B, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively and one conclusion about the subject according to the previous debate as detailed as possible. Give your arguments and practical evidence or examples in each of your statement in the paragraph. Prove to me that your argumentes are correct! Agent A's argument is not needed!

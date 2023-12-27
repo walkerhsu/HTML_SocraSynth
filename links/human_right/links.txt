@@ -1,3 +1,7 @@
 Agent A: https://chat.openai.com/share/9ba6e791-b432-49dc-b46c-8e2460cab26e
 Agent B: https://chat.openai.com/share/e1746f30-18cd-4d44-be74-0979cf3d436e
 Topic Chooser: https://chat.openai.com/share/8f877256-2ef6-45ba-bfd3-c97f95f5ea0d
+
+Version 1
+Agent A: https://chat.openai.com/share/6af74e3a-2d62-4697-8539-e613cf37a2e2
+Agent B: https://chat.openai.com/share/0c93317a-3dbd-41f5-b2f4-3ceea846863f
