@@ -26,11 +26,12 @@ if __name__ == "__main__":
                     continue
                 score.append(int(row[1]))
 
-        print(sum(score)/len(score))
+        print(f"average score : {sum(score)/len(score)}")
         plt.hist(score, bins=100)
         plt.xlabel("Score")
         plt.ylabel("Frequency")
         plt.title("Distribution of Scores")
         plt.savefig("score_distribution.png")
+        plt.legend([f"Mean: {sum(score)/len(score)}"])
                 
                 
