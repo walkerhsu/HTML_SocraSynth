@@ -1,0 +1,73 @@
+Can the pandemic-induced at-home remote learning negatively impact students' capability?
+I am the moderator about the debate. You, Agent A, are one of the participant, and another participant will be Agent B. I will introduce a subject for you, Agent A, and Agent B. You are now in the role of Agent A. You, Agent A, have to advocate in favor of the debate's subject, while Agent B will oppose in favor of the subject, so you should prepare evidence to strengthen yout argument. On a scale of 0 to 1, where 0 denotes complete agreement and 1 indicates a devil's advocate stance, your argument strength is rated at 0.9. Again, you are Agent A, you need to get ready for the debate. Please wait for my subject!
+I am the moderator about the debate. You, Agent B, are one of the participant, and another participant will be Agent A. I will introduce a subject for you, Agent B, and Agent A. You are now in the role of Agent B. You, Agent B, have to oppose in favor of the debate's subject, while Agent A will advocate in favor of the subject, so you should prepare evidence to strengthen yout argument. On a scale of 0 to 1, where 0 denotes complete agreement and 1 indicates a devil's advocate stance, your argument strength is rated at 0.9. Again, you are Agent B, you need to get ready for the debate. Please wait for my subject!
+
+the subject is "Can the pandemic-induced at-home remote learning negatively impact students' capability?" Agent A, you have to state that "yes, pandemic-induced at-home remote learning does negatively impact students' capability". Agent A, Please propose several (sub-)topics aboud the subject. Just list all the (sub-)topics titles in bold!!! no details are needed!
+the subject is "Can the pandemic-induced at-home remote learning negatively impact students' capability?" Agent B, you have to state that "no, pandemic-induced at-home remote learning positively impact students' capability". Agent B, Please propose several (sub-)topics aboud the subject. Just list all the (sub-)topics titles in bold!!! no details are needed!
+
+------------
+
+You are a (sub-)topics chooser for a debate.
+The problem is "Can the pandemic-induced at-home remote learning negatively impact students' capability?"
+
+Agent A propose 10 (sub-)topics: 
+1. **Social Isolation Effects**
+2. **Technology Barriers**
+3. **Lack of Personalized Attention**
+4. **Impact on Mental Health**
+5. **Reduced Collaboration Opportunities**
+6. **Disruption of Routine and Structure**
+7. **Inequities in Access to Resources**
+8. **Potential Learning Gaps**
+9. **Challenges in Student Engagement**
+10. **Assessment and Evaluation Issues**
+
+Agent B propose 6 (sub-)topics: 
+**1. Flexibility and Personalized Learning**
+**2. Technological Skill Development**
+**3. Independence and Self-Management**
+**4. Family Involvement and Support**
+**5. Global Perspective and Access to Resources**
+**6. Resilience and Adaptability**
+
+There are a total of 16 (sub-)topics.
+Please choose 5 (sub-)topics out of 15 in a neutral perspective, which both of them have mentioned or both of them have referred to! Just list the five (sub-)topics titles in bold, no details are needed!!!
+
+------------
+
+I have narrowed down to just 5 (sub-)topics: 
+**Technology Barriers**
+**Lack of Personalized Attention**
+**Impact on Mental Health**
+**Inequities in Access to Resources**
+**Assessment and Evaluation Issues**
+Agent A , do you agree with the 5 (sub-)topics that you will need to articulate your viewpoints about?
+
+--------------
+
+0.
+Agent A, please state you arguments about these five (sub-)topics as detailed as possible. You can give your arguments and practical evidence or examples in each of your statement. Please just advocate in favor of the subject!
+1.
+Agent B, please state you arguments about these five (sub-)topics as detailed as possible. You can give your arguments and practical evidence or examples in each of your statement. Please just oppose in favor of the subject!
+
+2.
+Agent A has make the above arguments of the 5 (sub-)topics according to your arguments:
+Agent B, please state you arguments about these five (sub-)topics as detailed as possible and debate against Agent A according to Agent A's arguments. You can give your arguments and practical evidence or examples in each of your statement. Please just oppose in favor of the subject!
+Prove you are right!!!
+
+3.
+Agent B has make the above arguments of the 5 (sub-)topics according to your arguments:
+Agent A, please state you arguments about these five (sub-)topics as detailed as possible and debate against Agent A according to Agent A's arguments. You can give your arguments and practical evidence or examples in each of your statement. Please just oppose in favor of the subject!
+Prove you are right!!!
+
+6.
+The debate is now over. Please ruminate the previous debate. After that, as far as you can concern, Agent A, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively as more viewpoints and clear as possible and one conclusion about the subject according to the previous debate as detailed as possible. You can give your arguments and practical evidence or examples in each of your statement in the paragraph. Agent B's argument is not needed!
+7.
+The debate is now over. Please ruminate the previous debate. After that, as far as you can concern, Agent B, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively as more viewpoints and clear as possible and one conclusion about the subject according to the previous debate as detailed as possible. You can give your arguments and practical evidence or examples in each of your statement in the paragraph. Agent A's argument is not needed!
+
+--------------
+
+4. to A
+This is the response of Agent-B with respect to your previous arguments. Please ruminate the previous debate. As far as you are concerned, Agent A, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively and one conclusion about the subject according to the previous debate as detailed as possible. Give your arguments and practical evidence or examples in each of your statement in the paragraph. Prove to me that your argumentes are correct! Agent B's argument is not needed!
+5. to B
+This is the response of Agent-A with respect to your previous arguments. Please ruminate the previous debate. As far as you are concerned, Agent B, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively and one conclusion about the subject according to the previous debate as detailed as possible. Give your arguments and practical evidence or examples in each of your statement in the paragraph. Prove to me that your argumentes are correct! Agent A's argument is not needed!

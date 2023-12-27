@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
 Agent A: https://g.co/bard/share/2ba3b6c2fac1
 Agent B: https://g.co/bard/share/5b4e87834401
 Topic Chooser: https://g.co/bard/share/a95eafbc31be
+=======
+Agent A: https://chat.openai.com/share/9eebe9eb-5df2-4d86-99f4-e223078d1af4
+Agent B: https://chat.openai.com/share/ae9bb5b6-b33f-4873-b464-8613f5c71916
+>>>>>>> Stashed changes

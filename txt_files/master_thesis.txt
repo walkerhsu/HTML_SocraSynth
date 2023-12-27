@@ -1,0 +1,67 @@
+Must Master's students complete a thesis for their major?
+I am the moderator about the debate. You, Agent A, are one of the participant, and another participant will be Agent B. I will introduce a subject for you, Agent A, and Agent B. You are now in the role of Agent A. You, Agent A, have to advocate in favor of the debate's subject, while Agent B will oppose in favor of the subject, so you should prepare evidence to strengthen yout argument. On a scale of 0 to 1, where 0 denotes complete agreement and 1 indicates a devil's advocate stance, your argument strength is rated at 0.9. Again, you are Agent A, you need to get ready for the debate. Please wait for my subject!
+I am the moderator about the debate. You, Agent B, are one of the participant, and another participant will be Agent A. I will introduce a subject for you, Agent B, and Agent A. You are now in the role of Agent B. You, Agent B, have to oppose in favor of the debate's subject, while Agent A will advocate in favor of the subject, so you should prepare evidence to strengthen yout argument. On a scale of 0 to 1, where 0 denotes complete agreement and 1 indicates a devil's advocate stance, your argument strength is rated at 0.9. Again, you are Agent B, you need to get ready for the debate. Please wait for my subject!
+
+the subject is "Must Master's students complete a thesis for their major?" Agent A, you have to state that "yes, Master's students must complete a thesis for their major". Agent A, Please propose several (sub-)topics aboud the subject. Just list all the (sub-)topics titles in bold!!! no details are needed!
+the subject is "Must Master's students complete a thesis for their major?" Agent B, you have to state that "no, Master's students do not necessarily complete a thesis for their major". Agent B, Please propose several (sub-)topics aboud the subject. Just list all the (sub-)topics titles in bold!!! no details are needed!
+
+------------
+
+You are a (sub-)topics chooser for a debate.
+The problem is "Must Master's students complete a thesis for their major?"
+
+Agent A propose 5 (sub-)topics: 
+**1. Academic Rigor and Depth**
+**2. Research Skill Development**
+**3. Contribution to Knowledge**
+**4. Professional Advancement**
+**5. Demonstration of Mastery**
+
+Agent B propose 5 (sub-)topics: 
+**1. Alternative Assessment Methods**
+**2. Professional Experience Emphasis**
+**3. Diverse Learning Styles**
+**4. Practical Application Over Theoretical Research**
+**5. Varied Career Goals of Master's Students**
+
+There are a total of 10 (sub-)topics.
+Please choose 5 (sub-)topics out of 15 in a neutral perspective, which both of them have mentioned or both of them have referred to! Just list the five (sub-)topics titles in bold, no details are needed!!!
+
+------------
+
+I have narrowed down to just 5 (sub-)topics: 
+**Research Skill Development**
+**Professional Advancement**
+**Alternative Assessment Methods**
+**Diverse Learning Styles**
+**Varied Career Goals of Master's Students**
+Agent A , do you agree with the 5 (sub-)topics that you will need to articulate your viewpoints about?
+
+--------------
+
+0.
+Agent A, please state you arguments about these five (sub-)topics as detailed as possible. You can give your arguments and practical evidence or examples in each of your statement. Please just advocate in favor of the subject!
+1.
+Agent B, please state you arguments about these five (sub-)topics as detailed as possible. You can give your arguments and practical evidence or examples in each of your statement. Please just oppose in favor of the subject!
+
+2.
+Agent A has make the above arguments of the 5 (sub-)topics according to your arguments:
+Agent B, please state you arguments about these five (sub-)topics as detailed as possible and debate against Agent A according to Agent A's arguments. You can give your arguments and practical evidence or examples in each of your statement. Please just oppose in favor of the subject!
+Prove you are right!!! And give as more viewpoints as possible!!!
+
+3.
+Agent B has make the above arguments of the 5 (sub-)topics according to your arguments:
+Agent A, please state you arguments about these five (sub-)topics as detailed as possible and debate against Agent A according to Agent A's arguments. You can give your arguments and practical evidence or examples in each of your statement. Please just oppose in favor of the subject!
+Prove you are right!!! And give as more viewpoints as possible!!!
+
+6.
+The debate is now over. Please ruminate the previous debate. After that, as far as you can concern, Agent A, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively as more viewpoints and clear as possible and one conclusion about the subject according to the previous debate as detailed as possible. You can give your arguments and practical evidence or examples in each of your statement in the paragraph. Agent B's argument is not needed! You need to give me as more viewpoints and clearly as possible to stand on your statements.
+7.
+The debate is now over. Please ruminate the previous debate. After that, as far as you can concern, Agent B, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively as more viewpoints and clear as possible and one conclusion about the subject according to the previous debate as detailed as possible. You can give your arguments and practical evidence or examples in each of your statement in the paragraph. Agent A's argument is not needed! You need to give me as more viewpoints and clearly as possible to stand on your statements.
+
+--------------
+
+4. to A
+This is the response of Agent-B with respect to your previous arguments. As far as you are concerned, Agent A, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively and one conclusion about the subject according to the previous debate as detailed as possible to maintain your viewpoint. Give your arguments and practical evidence or examples in each of your statement in the paragraph. Prove to me that your argumentes are correct! Agent B's argument is not needed!
+5. to B
+This is the response of Agent-A with respect to your previous arguments. As far as you are concerned, Agent B, please obtain each of your five (sub-)topics’ arguments in a paragraph respectively and one conclusion about the subject according to the previous debate as detailed as possible to maintain your viewpoint. Give your arguments and practical evidence or examples in each of your statement in the paragraph. Prove to me that your argumentes are correct! Agent A's argument is not needed!

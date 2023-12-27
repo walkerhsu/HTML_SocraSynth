@@ -1,2 +1,6 @@
 Agent A: https://chat.openai.com/share/f8f949f1-9938-4a6e-8625-fc1cdd95277c
 Agent B: https://chat.openai.com/share/eea54e0a-cb07-4ea3-9b76-2c0b27d81485
+
+Version 1
+Agent A: https://chat.openai.com/share/db0449ef-f009-4311-8e50-52851a978566
+Agent B: https://chat.openai.com/share/282edd2c-ca7d-49d0-8258-6703bbd106e2
